@@ -1,6 +1,7 @@
 This is my First Game. It is not right to call it a complete game. 
 This is a project. I wanted to create a project in Unity, which I started learning 1.5 months ago. 
 I will be waiting for your comments and best score , you can be harsh, but remember that I am a new rookie. I even used Chatgpt sometimes.
+You can Play Without Dowloand Game : https://captainkidxtr.itch.io/knight-must-die
 
 Bu benim ilk oyunum. Tam oyun demek de doğru değil. Bu bir proje.
 1,5 ay önce öğrenmeye başladığım unity'de bir adet proje çıkarmak istedim.
